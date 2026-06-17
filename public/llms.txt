@@ -1,0 +1,23 @@
+# Vets On Door
+
+> Lahore's mobile veterinary service. Dr. Muhammad Ahmad DVM (RVMP) provides home vet visits across all Lahore areas.
+
+- Website: https://vetsondoor.com
+- Phone: +923078517122
+- Location: Lahore, Punjab, Pakistan
+- Developer: [Soban Rafique](https://sobanrafique.com)
+
+## Docs
+
+- [About](https://vetsondoor.com/about): Company background and mission
+- [Services](https://vetsondoor.com/services): All veterinary services offered
+- [Locations](https://vetsondoor.com/locations): Lahore areas served
+- [Veterinarian](https://vetsondoor.com/veterinarian-lahore): Dr. Muhammad Ahmad's profile and credentials
+- [FAQs](https://vetsondoor.com/vet-faqs-lahore): Common questions answered
+- [Book Appointment](https://vetsondoor.com/book-vet-appointment-lahore): Online booking
+- [Emergency](https://vetsondoor.com/emergency-vet-lahore): 24/7 emergency info
+- [Contact](https://vetsondoor.com/contact-vet-lahore): Contact details
+
+## Full Context
+
+- [llms-full.txt](https://vetsondoor.com/llms-full.txt): Complete business data, services, pricing, FAQs, and citation guidance
